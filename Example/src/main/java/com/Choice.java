@@ -28,7 +28,7 @@ public class Choice extends HttpServlet {
 		for(int i = 0; i<hobby.length; i++) {
 			System.out.println(hobby[i]);
 		}
-		
+		 
 		
 		
 	}
